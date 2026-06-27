@@ -34,7 +34,7 @@ main {
 .Containerimagem {
     width: 400px;
     height: 400px;
-    background-image:url(/imgGiovanni2.jfif);
+    background-image:url(./imgGiovanni2.jfif);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
